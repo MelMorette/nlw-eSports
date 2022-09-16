@@ -2,7 +2,7 @@
 
 Projeto criado para o desafio proposto durante a semana NLW e-Sports da Rocketseat
 
-![preview](./nlw-eSports/.github/preview.png)
+![preview](/nlw-eSports/.github/preview.png)
 
 
  🔗 [Clique aqui para acessar](https://melmorette.github.io/MelMorette/nlw-eSports/)
